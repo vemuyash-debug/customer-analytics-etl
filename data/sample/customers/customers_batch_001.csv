@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone,registration_date,city,state,country,customer_tier
+C001,John,Smith,john.smith@email.com,555-0101,2023-01-15,New York,NY,USA,Gold
+C002,Jane,Doe,jane.doe@email.com,555-0102,2023-02-20,Los Angeles,CA,USA,Silver
+C003,Bob,Johnson,bob.johnson@email.com,555-0103,2023-03-10,Chicago,IL,USA,Bronze
+C004,Alice,Williams,alice.williams@email.com,555-0104,2023-04-05,Houston,TX,USA,Gold
+C005,Charlie,Brown,charlie.brown@email.com,555-0105,2023-05-12,Phoenix,AZ,USA,Silver
+C006,Diana,Martinez,diana.martinez@email.com,555-0106,2023-06-18,Philadelphia,PA,USA,Gold
+C007,Edward,Garcia,edward.garcia@email.com,555-0107,2023-07-22,San Antonio,TX,USA,Bronze
+C008,Fiona,Lee,fiona.lee@email.com,555-0108,2023-08-30,San Diego,CA,USA,Silver
+C009,George,Wilson,george.wilson@email.com,555-0109,2023-09-14,Dallas,TX,USA,Gold
+C010,Hannah,Taylor,hannah.taylor@email.com,555-0110,2023-10-25,San Jose,CA,USA,Platinum
+C011,Ian,Anderson,ian.anderson@email.com,555-0111,2024-01-08,Austin,TX,USA,Silver
+C012,Julia,Thomas,julia.thomas@email.com,555-0112,2024-02-14,Seattle,WA,USA,Gold
+C013,Kevin,Jackson,kevin.jackson@email.com,555-0113,2024-03-20,Denver,CO,USA,Bronze
+C014,Laura,White,laura.white@email.com,555-0114,2024-04-11,Boston,MA,USA,Platinum
+C015,Michael,Harris,michael.harris@email.com,555-0115,2024-05-03,Portland,OR,USA,Gold
+C016,Nancy,Clark,nancy.clark@email.com,555-0116,2024-06-17,Miami,FL,USA,Silver
+C017,Oliver,Lewis,oliver.lewis@email.com,555-0117,2024-07-09,Atlanta,GA,USA,Bronze
+C018,Patricia,Robinson,patricia.robinson@email.com,555-0118,2024-08-22,Detroit,MI,USA,Gold
+C019,Quinn,Walker,quinn.walker@email.com,555-0119,2024-09-30,Minneapolis,MN,USA,Silver
+C020,Rachel,Hall,rachel.hall@email.com,555-0120,2024-10-15,Tampa,FL,USA,Platinum
