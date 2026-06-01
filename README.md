@@ -130,15 +130,6 @@ See `sql/analytics/customer_insights.sql` for:
 - Customer engagement leaderboard
 - Purchase behavior by category
 
-## Interview Talking Points
-
-- **Medallion Architecture**: Progressive data refinement with clear layer ownership
-- **Incremental MERGE**: Idempotent upserts for daily CDC from source systems
-- **Data Quality Gates**: Silver layer blocks bad data before Gold aggregation
-- **RFM Segmentation**: Classic marketing analytics implemented in Spark
-- **Delta Lake Ops**: Production maintenance with OPTIMIZE/VACUUM/Z-ORDER
-- **Broadcast Joins**: Optimized dimension enrichment in revenue metrics
-- **Audit Trail**: Full pipeline observability for SLA monitoring
 
 ## Technology Stack
 
